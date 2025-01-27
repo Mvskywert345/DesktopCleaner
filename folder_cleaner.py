@@ -3,7 +3,7 @@ import shutil
 import time
 
 # Folder to clean
-folder_to_clean = "E:\images2k22"
+folder_to_clean = ""
 
 # Destination folders for organized files
 arranges_folder = {
